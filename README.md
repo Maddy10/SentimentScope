@@ -4,7 +4,7 @@
 
 ### 🖼️ App Homepage
 
-![App Homepage](homepage.png)
+![App Homepage](Homepage.png)
 
 
 # Multilingual Sentiment Analysis App
